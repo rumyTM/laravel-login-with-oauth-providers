@@ -21,17 +21,17 @@ php artisan migrate
 ## Screenshots
 
 #### Login
-![Module Index Page](SCREENSHOTS/login.png "Login")
+![](SCREENSHOTS/login.png "Login")
 
 #### Register
-![Show Module Page](SCREENSHOTS/register.png "Register")
+![](SCREENSHOTS/register.png "Register")
 
 #### Select Google Account
-![Role Index Page](SCREENSHOTS/google.png "Select Google Account")
+![](SCREENSHOTS/google.png "Select Google Account")
 
 #### Register using OAuth Provider
-![Permission Index Page](SCREENSHOTS/register_oauth.png "Register using OAuth Provider")
+![](SCREENSHOTS/register_oauth.png "Register using OAuth Provider")
 
 #### Dashboard
-![Create Role Page](SCREENSHOTS/dashboard.png "Dashboard")
+![](SCREENSHOTS/dashboard.png "Dashboard")
 
